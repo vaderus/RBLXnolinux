@@ -12,3 +12,9 @@ ou
 ```
 git clone https://github.com/vaderus/RBLXnolinux && cd RBLXnolinux && chmod +x ./RBLXnolinux.sh
 ```
+
+### Como usar?
+
+rode `sh ./RBLXnolinux.sh`
+após isso o script perguntará oque for necessário.
+
