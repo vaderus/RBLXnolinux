@@ -1,6 +1,6 @@
 # RBLXnolinux.sh
 ### Oque é?
-Olá, este é meu scrit para rodar [Roblox](https://github.com/ROBLOX) no Gnu/Linux.
+Olá, este é meu script para rodar [Roblox](https://github.com/ROBLOX) no Gnu/Linux.
 Ele instalará o [Grapejuice](https://gitlab.com/brinkervii/grapejuice) e [Wine-Tkg](https://github.com/TheComputerGuy96/wine-tkg-git) para compatibilizar o Roblox.
 
 ### Instalação
